@@ -1,0 +1,70 @@
+.hero{
+
+  min-height:500px;
+
+  background:
+  linear-gradient(
+  135deg,
+  #7b61ff,
+  #9a7bff);
+
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+
+  padding:60px 80px;
+
+  color:white;
+
+}
+
+.texto{
+  width:50%;
+}
+
+.texto h1{
+  font-size:60px;
+  margin-top: 10px; 
+}
+
+.textoPrimeiro{
+  margin-bottom: 0px;
+}
+
+.newsletter{
+  display:flex;
+  gap:10px;
+  margin-top:20px;
+}
+
+input{
+  width:300px;
+  padding:14px;
+  margin-right: 16px;
+  border:none;
+  border-radius:10px;
+}
+
+button{
+  padding:14px 25px;
+  border:none;
+  border-radius:10px;
+  background:#2e1f7a;
+  color:white;
+  font-weight:bold;
+}
+
+.card-texto{
+    margin-bottom: 25px;
+}
+
+.segundoTitulo{
+    color:#2e1f7a;
+    margin-bottom: 40px;
+}
+
+.imagem img {
+  max-width: 500px;
+  width: 100%;
+  height: auto;
+}

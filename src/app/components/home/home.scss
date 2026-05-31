@@ -1,0 +1,22 @@
+.livros{
+
+  padding:60px 80px;
+}
+
+.grid{
+
+  display:grid;
+
+  grid-template-columns:
+  repeat(auto-fit,minmax(320px,1fr));
+
+  gap:25px;
+
+  margin-top:30px;
+
+}
+
+.subtitulo{
+    margin-left: 25px;
+    margin-bottom: 16px;
+}
