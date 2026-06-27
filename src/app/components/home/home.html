@@ -1,18 +1,27 @@
-<app-navbar class="font"></app-navbar>
-
 <app-hero class="font"></app-hero>
 
-<section>
-    <h3 class="subtitulo">
-        Nossa Biblioteca
-    </h3>
+<section class="livros">
+  <div class="cabecalho-biblioteca">
+    <span class="etiqueta">Catálogo</span>
+    <h2 class="subtitulo">Nossa Biblioteca</h2>
+    <p>Pesquise livros e explore novas leituras.</p>
+  </div>
 
-    <div class="grid">
-        <app-card-livro
-        class="font" 
-        *ngFor="let livro of livros" 
-        [livro]="livro">
- 
-        </app-card-livro>
-    </div>
+  <div class="area-pesquisa">
+    <input
+      type="text"
+      [(ngModel)]="termoBusca"
+      placeholder="Pesquisar livros..."
+      (keyup.enter)="buscarLivros()"
+    />
+
+    <button type="button" (click)="buscarLivros()">Pesquisar</button>
+  </div>
+
+  <div class="grid">
+    <app-card-livro
+      *ngFor="let livro of livros"
+      [livro]="livro">
+    </app-card-livro>
+  </div>
 </section>

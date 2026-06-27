@@ -1,18 +1,9 @@
 <div class="card">
-    <img src="livro.capa" alt="livro.titulo">
+  <img class="capa" [src]="livro.capa" [alt]="livro.titulo">
 
-    <span class="categoria">{{livro.categoria}}</span>
-
-    <h2>{{livro.titulo}}</h2>
-
-    <p>{{livro.descricao}}</p>
-
-    <div class="footer">
-        <div class="estrelas">
-            {{livro.avaliacao}}
-        </div>
-        <div>
-            {{livro.comentarios}}
-        </div>
-    </div>
+  <div class="info">
+    <h2>{{ livro.titulo }}</h2>
+    <span class="categoria">{{ livro.ano || 'Sem ano' }}</span>
+    <p>{{ livro.autor }}</p>
+  </div>
 </div>

@@ -1,6 +1,6 @@
 .hero{
 
-  min-height:500px;
+  min-height:300px;
 
   background:
   linear-gradient(
@@ -23,12 +23,13 @@
 }
 
 .texto h1{
-  font-size:60px;
+ 
   margin-top: 10px; 
 }
 
 .textoPrimeiro{
   margin-bottom: 0px;
+  font-size:58px;
 }
 
 .newsletter{
@@ -61,10 +62,12 @@ button{
 .segundoTitulo{
     color:#2e1f7a;
     margin-bottom: 40px;
+    font-weight: bold;
+    font-size:60px;
 }
 
 .imagem img {
-  max-width: 500px;
+  width: 300px;
   width: 100%;
   height: auto;
 }

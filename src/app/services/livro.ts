@@ -1,42 +1,20 @@
-import { Injectable } from '@angular/core';
+import { Injectable, inject } from '@angular/core';
 import { Livro } from '../models/livro';
+import { HttpClient } from '@angular/common/http';
+import { Observable } from 'rxjs';
 
 @Injectable({
-  providedIn: 'root',
+  providedIn: 'root'
 })
-export class LivroService {
-  livros: Livro[] = [
-    {
-      id: 1,
-      titulo: '1984',
-      categoria: 'Ficção',
-      descricao: 'Um clássico distópico.',
-      capa: 'assets/livros/1984.jpg',
-      avaliacao: 4,
-      comentarios: 128
-    },
-    {
-      id: 2,
-      titulo: 'O Hobbit',
-      categoria: 'Fantasia',
-      descricao: 'A jornada inesperada de Bilbo.',
-      capa: 'assets/livros/hobbit.jpg',
-      avaliacao: 5,
-      comentarios: 96
-    },
-    {
-      id: 3,
-      titulo: 'Dom Casmurro',
-      categoria: 'Clássico',
-      descricao: 'Machado de Assis.',
-      capa: 'assets/livros/dom.jpg',
-      avaliacao: 4,
-      comentarios: 112
-    }
-  ];
+export class LivrosService {
 
-  getLivros() {
-    return this.livros;
+  // private http = inject(HttpClient);
+
+  private apiUrl = 'http://localhost:3000/livros';
+
+   constructor(private http: HttpClient) {}
+
+  buscarLivros(termo: string): Observable<any[]> {
+    return this.http.get<any[]>(`${this.apiUrl}?q=${termo}`);
   }
-
 }
