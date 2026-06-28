@@ -14,7 +14,7 @@ export class LivrosService {
 
    constructor(private http: HttpClient) {}
 
-  buscarLivros(termo: string): Observable<any[]> {
-    return this.http.get<any[]>(`${this.apiUrl}?q=${termo}`);
+  buscarLivros(): Observable<any[]> {
+    return this.http.get<any[]>(this.apiUrl);
   }
 }

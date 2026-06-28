@@ -1,6 +1,6 @@
 .hero{
 
-  min-height:300px;
+  height:300px;
 
   background:
   linear-gradient(
@@ -66,8 +66,9 @@ button{
     font-size:60px;
 }
 
-.imagem img {
-  width: 300px;
-  width: 100%;
+.imagem {
+  width: 500px;
   height: auto;
+  justify-content: right;
+  display: flex;
 }

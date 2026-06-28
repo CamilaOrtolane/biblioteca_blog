@@ -1,5 +1,6 @@
 // import { Component, OnInit } from '@angular/core';
 // import { LivrosService } from '../../services/livro';
+// import { HttpClient } from '@angular/common/http';
 
 // @Component({
 //   selector: 'app-livro',
@@ -9,13 +10,7 @@
 // })
 // export class Livros implements OnInit {
 
-//   // livros: any[] = [];
-
-//   // constructor(private livrosService: LivrosService) {}
-
-//   // ngOnInit() {
-//   //   this.livrosService.listar().subscribe((dados: any) => {
-//   //     this.livros = dados;
-//   //   });
+//   buscarLivros() {
+//     return this.http.get<any[]>(this.apiUrl);
 //   }
 // }

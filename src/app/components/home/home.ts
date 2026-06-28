@@ -24,17 +24,20 @@ export class Home {
   livros: any[] = [];
 
   constructor(private livrosService: LivrosService) {}
-  termoBusca = 'romance';
 
   ngOnInit() {
-    this.buscarLivros();
+    this.carregarLivros();
   }
 
-  buscarLivros(){
-    this.livrosService.buscarLivros(this.termoBusca)
-      .subscribe((dados) => {
+  carregarLivros() {
+    this.livrosService.buscarLivros().subscribe({
+      next: (dados) => {
         this.livros = dados;
-      });
-  }
+      },
+      error: (erro) => {
+        console.error('Erro ao carregar livros:', erro);
+      }
+    });
+}
   //dá pra criar metódo aqui dentro
 }
