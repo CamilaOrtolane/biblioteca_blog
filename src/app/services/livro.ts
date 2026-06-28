@@ -10,7 +10,7 @@ export class LivrosService {
 
   // private http = inject(HttpClient);
 
-  private apiUrl = 'http://localhost:3000/livros';
+  private apiUrl = 'https://book-blog-backend-l0ws.onrender.com/livros';
 
    constructor(private http: HttpClient) {}
 
