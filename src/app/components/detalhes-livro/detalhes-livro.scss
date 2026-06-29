@@ -1,0 +1,101 @@
+.detalhes {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 70px 48px;
+}
+
+.voltar {
+  border: none;
+  background: transparent;
+  color: #7b61ff;
+  font-weight: 700;
+  margin-bottom: 24px;
+  cursor: pointer;
+}
+
+.detalhes-card {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  gap: 36px;
+  background: #fff;
+  border-radius: 30px;
+  padding: 34px;
+  box-shadow: 0 8px 24px rgba(44, 35, 80, 0.12);
+}
+
+.detalhes-card img {
+  width: 100%;
+  height: 370px;
+  object-fit: cover;
+  border-radius: 20px;
+}
+
+.categoria {
+  display: inline-block;
+  background: #efe8ff;
+  color: #7b61ff;
+  padding: 6px 14px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+h1 {
+  color: #08143d;
+  font-size: 36px;
+  margin: 18px 0 8px;
+}
+
+.autor {
+  color: #66708a;
+  font-size: 16px;
+}
+
+.ano {
+  color: #7b61ff;
+  font-weight: 700;
+}
+
+.sinopse {
+  margin-top: 24px;
+  color: #4f5870;
+  line-height: 1.6;
+}
+
+.avaliacao {
+  margin-top: 30px;
+}
+
+.avaliacao span {
+  color: #8a91a6;
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.estrelas button {
+  border: none;
+  background: transparent;
+  font-size: 32px;
+  color: #d8cfff;
+  cursor: pointer;
+}
+
+.estrelas button.ativa {
+  color: #7b61ff;
+}
+
+.mensagem {
+  color: #7b61ff;
+  font-weight: 700;
+  margin-top: 8px;
+}
+
+@media (max-width: 800px) {
+  .detalhes-card {
+    grid-template-columns: 1fr;
+  }
+
+  .detalhes-card img {
+    max-width: 260px;
+  }
+}

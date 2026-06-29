@@ -21,6 +21,10 @@ export class LivrosService {
     return this.http.get<any[]>('assets/livros.json');
   }
 
+  buscarLivroPorId(id: string) {
+    return this.http.get<any[]>('/assets/livros.json');
+  }
+
   // buscarLivros(): Observable<any[]> {
   //   return this.http.get<any[]>(this.apiUrl);
   // }

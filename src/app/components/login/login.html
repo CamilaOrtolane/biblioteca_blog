@@ -1,0 +1,26 @@
+<section class="login-page">
+  <div class="login-card">
+    <span class="etiqueta">Acesso</span>
+
+    <h1>Entrar no BookBlog</h1>
+    <p>Entre para avaliar livros e compartilhar suas leituras.</p>
+
+    <form (ngSubmit)="entrar()">
+      <input
+        type="email"
+        name="email"
+        [(ngModel)]="email"
+        placeholder="Seu e-mail"
+      />
+
+      <input
+        type="password"
+        name="senha"
+        [(ngModel)]="senha"
+        placeholder="Sua senha"
+      />
+
+      <button type="submit">Entrar</button>
+    </form>
+  </div>
+</section>
