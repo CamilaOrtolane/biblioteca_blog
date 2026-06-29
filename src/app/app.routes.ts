@@ -21,7 +21,7 @@ export const routes: Routes = [
         component: Catalogo
     } ,
     {
-        path: 'livro/:id',
+        path: 'livro',
         component: DetalhesLivro
     },
     {
