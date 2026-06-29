@@ -44,4 +44,6 @@ export class DetalhesLivro {
     this.nota = nota;
     this.mensagem = 'Avaliado com sucesso';
   }
+
+  
 }
