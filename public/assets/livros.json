@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "dom-casmurro",
+    "titulo": "Dom Casmurro",
+    "autor": "Machado de Assis",
+    "categoria": "Literatura Brasileira",
+    "ano": 1899,
+    "isbn": "9788535910663",
+    "capa": "https://covers.openlibrary.org/b/isbn/9788535910663-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "memorias-postumas-de-bras-cubas",
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "Machado de Assis",
+    "categoria": "Literatura Brasileira",
+    "ano": 1881,
+    "isbn": "9780140449631",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780140449631-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "o-cortico",
+    "titulo": "O Cortiço",
+    "autor": "Aluísio Azevedo",
+    "categoria": "Literatura Brasileira",
+    "ano": 1890,
+    "isbn": "9788503012306",
+    "capa": "https://covers.openlibrary.org/b/isbn/9788503012306-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "vidas-secas",
+    "titulo": "Vidas Secas",
+    "autor": "Graciliano Ramos",
+    "categoria": "Literatura Brasileira",
+    "ano": 1938,
+    "isbn": "9788501067346",
+    "capa": "https://covers.openlibrary.org/b/isbn/9788501067346-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "capitaes-da-areia",
+    "titulo": "Capitães da Areia",
+    "autor": "Jorge Amado",
+    "categoria": "Literatura Brasileira",
+    "ano": 1937,
+    "isbn": "9788535911691",
+    "capa": "https://covers.openlibrary.org/b/isbn/9788535911691-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "a-hora-da-estrela",
+    "titulo": "A Hora da Estrela",
+    "autor": "Clarice Lispector",
+    "categoria": "Literatura Brasileira",
+    "ano": 1977,
+    "isbn": "9788532508122",
+    "capa": "https://covers.openlibrary.org/b/isbn/9788532508122-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "grande-sertao-veredas",
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "João Guimarães Rosa",
+    "categoria": "Literatura Brasileira",
+    "ano": 1956,
+    "isbn": "9788535931989",
+    "capa": "https://covers.openlibrary.org/b/isbn/9788535931989-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "macunaima",
+    "titulo": "Macunaíma",
+    "autor": "Mário de Andrade",
+    "categoria": "Literatura Brasileira",
+    "ano": 1928,
+    "isbn": "9788525406060",
+    "capa": "https://covers.openlibrary.org/b/isbn/9788525406060-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "iracema",
+    "titulo": "Iracema",
+    "autor": "José de Alencar",
+    "categoria": "Literatura Brasileira",
+    "ano": 1865,
+    "isbn": "9788503012771",
+    "capa": "https://covers.openlibrary.org/b/isbn/9788503012771-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "senhora",
+    "titulo": "Senhora",
+    "autor": "José de Alencar",
+    "categoria": "Literatura Brasileira",
+    "ano": 1875,
+    "isbn": "9788503012818",
+    "capa": "https://covers.openlibrary.org/b/isbn/9788503012818-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "a-moreninha",
+    "titulo": "A Moreninha",
+    "autor": "Joaquim Manuel de Macedo",
+    "categoria": "Literatura Brasileira",
+    "ano": 1844,
+    "isbn": "9788503012795",
+    "capa": "https://covers.openlibrary.org/b/isbn/9788503012795-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "morte-e-vida-severina",
+    "titulo": "Morte e Vida Severina",
+    "autor": "João Cabral de Melo Neto",
+    "categoria": "Literatura Brasileira",
+    "ano": 1955,
+    "isbn": "9788535911813",
+    "capa": "https://covers.openlibrary.org/b/isbn/9788535911813-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "lacos-de-familia",
+    "titulo": "Laços de Família",
+    "autor": "Clarice Lispector",
+    "categoria": "Literatura Brasileira",
+    "ano": 1960,
+    "isbn": "9788535911745",
+    "capa": "https://covers.openlibrary.org/b/isbn/9788535911745-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "quincas-borba",
+    "titulo": "Quincas Borba",
+    "autor": "Machado de Assis",
+    "categoria": "Literatura Brasileira",
+    "ano": 1891,
+    "isbn": "9788535910670",
+    "capa": "https://covers.openlibrary.org/b/isbn/9788535910670-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "o-quinze",
+    "titulo": "O Quinze",
+    "autor": "Rachel de Queiroz",
+    "categoria": "Literatura Brasileira",
+    "ano": 1930,
+    "isbn": "9788501115931",
+    "capa": "https://covers.openlibrary.org/b/isbn/9788501115931-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "orgulho-e-preconceito",
+    "titulo": "Orgulho e Preconceito",
+    "autor": "Jane Austen",
+    "categoria": "Romance",
+    "ano": 1813,
+    "isbn": "9780141439518",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780141439518-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "jane-eyre",
+    "titulo": "Jane Eyre",
+    "autor": "Charlotte Brontë",
+    "categoria": "Romance",
+    "ano": 1847,
+    "isbn": "9780141441146",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780141441146-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "o-morro-dos-ventos-uivantes",
+    "titulo": "O Morro dos Ventos Uivantes",
+    "autor": "Emily Brontë",
+    "categoria": "Romance",
+    "ano": 1847,
+    "isbn": "9780141439556",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780141439556-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "razao-e-sensibilidade",
+    "titulo": "Razão e Sensibilidade",
+    "autor": "Jane Austen",
+    "categoria": "Romance",
+    "ano": 1811,
+    "isbn": "9780141439662",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780141439662-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "anna-karienina",
+    "titulo": "Anna Kariênina",
+    "autor": "Liev Tolstói",
+    "categoria": "Romance",
+    "ano": 1878,
+    "isbn": "9780143035008",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780143035008-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "madame-bovary",
+    "titulo": "Madame Bovary",
+    "autor": "Gustave Flaubert",
+    "categoria": "Romance",
+    "ano": 1856,
+    "isbn": "9780140449129",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780140449129-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "a-culpa-e-das-estrelas",
+    "titulo": "A Culpa é das Estrelas",
+    "autor": "John Green",
+    "categoria": "Romance",
+    "ano": 2012,
+    "isbn": "9780142424179",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780142424179-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "como-eu-era-antes-de-voce",
+    "titulo": "Como Eu Era Antes de Você",
+    "autor": "Jojo Moyes",
+    "categoria": "Romance",
+    "ano": 2012,
+    "isbn": "9780143124542",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780143124542-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "e-assim-que-acaba",
+    "titulo": "É Assim que Acaba",
+    "autor": "Colleen Hoover",
+    "categoria": "Romance",
+    "ano": 2016,
+    "isbn": "9781501110368",
+    "capa": "https://covers.openlibrary.org/b/isbn/9781501110368-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "a-selecao",
+    "titulo": "A Seleção",
+    "autor": "Kiera Cass",
+    "categoria": "Romance",
+    "ano": 2012,
+    "isbn": "9780062059932",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780062059932-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "para-todos-os-garotos-que-ja-amei",
+    "titulo": "Para Todos os Garotos que Já Amei",
+    "autor": "Jenny Han",
+    "categoria": "Romance",
+    "ano": 2014,
+    "isbn": "9781442426719",
+    "capa": "https://covers.openlibrary.org/b/isbn/9781442426719-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "um-dia",
+    "titulo": "Um Dia",
+    "autor": "David Nicholls",
+    "categoria": "Romance",
+    "ano": 2009,
+    "isbn": "9780307474711",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780307474711-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "o-diario-de-bridget-jones",
+    "titulo": "O Diário de Bridget Jones",
+    "autor": "Helen Fielding",
+    "categoria": "Romance",
+    "ano": 1996,
+    "isbn": "9780140280098",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780140280098-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "o-sol-e-para-todos",
+    "titulo": "O Sol é Para Todos",
+    "autor": "Harper Lee",
+    "categoria": "Romance",
+    "ano": 1960,
+    "isbn": "9780061120084",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780061120084-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "eleanor-park",
+    "titulo": "Eleanor & Park",
+    "autor": "Rainbow Rowell",
+    "categoria": "Romance",
+    "ano": 2013,
+    "isbn": "9781250012579",
+    "capa": "https://covers.openlibrary.org/b/isbn/9781250012579-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "harry-potter-e-a-pedra-filosofal",
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "J. K. Rowling",
+    "categoria": "Fantasia",
+    "ano": 1997,
+    "isbn": "9788532511010",
+    "capa": "https://covers.openlibrary.org/b/isbn/9788532511010-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "harry-potter-e-a-camara-secreta",
+    "titulo": "Harry Potter e a Câmara Secreta",
+    "autor": "J. K. Rowling",
+    "categoria": "Fantasia",
+    "ano": 1998,
+    "isbn": "9788532511669",
+    "capa": "https://covers.openlibrary.org/b/isbn/9788532511669-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "o-hobbit",
+    "titulo": "O Hobbit",
+    "autor": "J. R. R. Tolkien",
+    "categoria": "Fantasia",
+    "ano": 1937,
+    "isbn": "9780547928227",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780547928227-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "a-sociedade-do-anel",
+    "titulo": "A Sociedade do Anel",
+    "autor": "J. R. R. Tolkien",
+    "categoria": "Fantasia",
+    "ano": 1954,
+    "isbn": "9780618640157",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780618640157-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "as-duas-torres",
+    "titulo": "As Duas Torres",
+    "autor": "J. R. R. Tolkien",
+    "categoria": "Fantasia",
+    "ano": 1954,
+    "isbn": "9780618640188",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780618640188-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "o-retorno-do-rei",
+    "titulo": "O Retorno do Rei",
+    "autor": "J. R. R. Tolkien",
+    "categoria": "Fantasia",
+    "ano": 1955,
+    "isbn": "9780618640195",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780618640195-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "o-leao-a-feiticeira-e-o-guarda-roupa",
+    "titulo": "O Leão, a Feiticeira e o Guarda-Roupa",
+    "autor": "C. S. Lewis",
+    "categoria": "Fantasia",
+    "ano": 1950,
+    "isbn": "9780064471046",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780064471046-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "percy-jackson-e-o-ladrao-de-raios",
+    "titulo": "Percy Jackson e o Ladrão de Raios",
+    "autor": "Rick Riordan",
+    "categoria": "Fantasia",
+    "ano": 2005,
+    "isbn": "9780786838653",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780786838653-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "coraline",
+    "titulo": "Coraline",
+    "autor": "Neil Gaiman",
+    "categoria": "Fantasia",
+    "ano": 2002,
+    "isbn": "9780380807345",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780380807345-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "o-nome-do-vento",
+    "titulo": "O Nome do Vento",
+    "autor": "Patrick Rothfuss",
+    "categoria": "Fantasia",
+    "ano": 2007,
+    "isbn": "9780756404741",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780756404741-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "a-batalha-do-apocalipse",
+    "titulo": "A Batalha do Apocalipse",
+    "autor": "Eduardo Spohr",
+    "categoria": "Fantasia",
+    "ano": 2007,
+    "isbn": "9788576860766",
+    "capa": "https://covers.openlibrary.org/b/isbn/9788576860766-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "o-espadachim-de-carvao",
+    "titulo": "O Espadachim de Carvão",
+    "autor": "Affonso Solano",
+    "categoria": "Fantasia",
+    "ano": 2013,
+    "isbn": "9788565765331",
+    "capa": "https://covers.openlibrary.org/b/isbn/9788565765331-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "dragoes-de-eter",
+    "titulo": "Dragões de Éter",
+    "autor": "Raphael Draccon",
+    "categoria": "Fantasia",
+    "ano": 2007,
+    "isbn": "9788562936000",
+    "capa": "https://covers.openlibrary.org/b/isbn/9788562936000-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "a-arma-escarlate",
+    "titulo": "A Arma Escarlate",
+    "autor": "Renata Ventura",
+    "categoria": "Fantasia",
+    "ano": 2011,
+    "isbn": "9788576861541",
+    "capa": "https://covers.openlibrary.org/b/isbn/9788576861541-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "eragon",
+    "titulo": "Eragon",
+    "autor": "Christopher Paolini",
+    "categoria": "Fantasia",
+    "ano": 2002,
+    "isbn": "9780375826696",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780375826696-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "dracula",
+    "titulo": "Drácula",
+    "autor": "Bram Stoker",
+    "categoria": "Terror",
+    "ano": 1897,
+    "isbn": "9780141439846",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780141439846-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "frankenstein",
+    "titulo": "Frankenstein",
+    "autor": "Mary Shelley",
+    "categoria": "Terror",
+    "ano": 1818,
+    "isbn": "9780141439471",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780141439471-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "o-medico-e-o-monstro",
+    "titulo": "O Médico e o Monstro",
+    "autor": "Robert Louis Stevenson",
+    "categoria": "Terror",
+    "ano": 1886,
+    "isbn": "9780141439730",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780141439730-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "o-iluminado",
+    "titulo": "O Iluminado",
+    "autor": "Stephen King",
+    "categoria": "Terror",
+    "ano": 1977,
+    "isbn": "9780307743657",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780307743657-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "it-a-coisa",
+    "titulo": "It: A Coisa",
+    "autor": "Stephen King",
+    "categoria": "Terror",
+    "ano": 1986,
+    "isbn": "9781501142970",
+    "capa": "https://covers.openlibrary.org/b/isbn/9781501142970-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "carrie",
+    "titulo": "Carrie",
+    "autor": "Stephen King",
+    "categoria": "Terror",
+    "ano": 1974,
+    "isbn": "9780307743664",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780307743664-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "misery",
+    "titulo": "Misery",
+    "autor": "Stephen King",
+    "categoria": "Terror",
+    "ano": 1987,
+    "isbn": "9781501143106",
+    "capa": "https://covers.openlibrary.org/b/isbn/9781501143106-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "o-exorcista",
+    "titulo": "O Exorcista",
+    "autor": "William Peter Blatty",
+    "categoria": "Terror",
+    "ano": 1971,
+    "isbn": "9780061007224",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780061007224-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "a-assombracao-da-casa-da-colina",
+    "titulo": "A Assombração da Casa da Colina",
+    "autor": "Shirley Jackson",
+    "categoria": "Terror",
+    "ano": 1959,
+    "isbn": "9780143039983",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780143039983-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "o-bebe-de-rosemary",
+    "titulo": "O Bebê de Rosemary",
+    "autor": "Ira Levin",
+    "categoria": "Terror",
+    "ano": 1967,
+    "isbn": "9781605981100",
+    "capa": "https://covers.openlibrary.org/b/isbn/9781605981100-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "o-chamado-de-cthulhu",
+    "titulo": "O Chamado de Cthulhu",
+    "autor": "H. P. Lovecraft",
+    "categoria": "Terror",
+    "ano": 1928,
+    "isbn": "9780143129455",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780143129455-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "noite-na-taverna",
+    "titulo": "Noite na Taverna",
+    "autor": "Álvares de Azevedo",
+    "categoria": "Terror",
+    "ano": 1855,
+    "isbn": "9788503012757",
+    "capa": "https://covers.openlibrary.org/b/isbn/9788503012757-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "o-corvo",
+    "titulo": "O Corvo",
+    "autor": "Edgar Allan Poe",
+    "categoria": "Terror",
+    "ano": 1845,
+    "isbn": "9780486266852",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780486266852-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "a-volta-do-parafuso",
+    "titulo": "A Volta do Parafuso",
+    "autor": "Henry James",
+    "categoria": "Terror",
+    "ano": 1898,
+    "isbn": "9780141441351",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780141441351-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "entrevista-com-o-vampiro",
+    "titulo": "Entrevista com o Vampiro",
+    "autor": "Anne Rice",
+    "categoria": "Terror",
+    "ano": 1976,
+    "isbn": "9780345337665",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780345337665-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "assassinato-no-expresso-do-oriente",
+    "titulo": "Assassinato no Expresso do Oriente",
+    "autor": "Agatha Christie",
+    "categoria": "Mistério",
+    "ano": 1934,
+    "isbn": "9780062693662",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780062693662-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "e-nao-sobrou-nenhum",
+    "titulo": "E Não Sobrou Nenhum",
+    "autor": "Agatha Christie",
+    "categoria": "Mistério",
+    "ano": 1939,
+    "isbn": "9780062073488",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780062073488-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "morte-no-nilo",
+    "titulo": "Morte no Nilo",
+    "autor": "Agatha Christie",
+    "categoria": "Mistério",
+    "ano": 1937,
+    "isbn": "9780062073556",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780062073556-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "o-assassinato-de-roger-ackroyd",
+    "titulo": "O Assassinato de Roger Ackroyd",
+    "autor": "Agatha Christie",
+    "categoria": "Mistério",
+    "ano": 1926,
+    "isbn": "9780062073563",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780062073563-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "um-estudo-em-vermelho",
+    "titulo": "Um Estudo em Vermelho",
+    "autor": "Arthur Conan Doyle",
+    "categoria": "Mistério",
+    "ano": 1887,
+    "isbn": "9780140439083",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780140439083-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "o-cao-dos-baskerville",
+    "titulo": "O Cão dos Baskerville",
+    "autor": "Arthur Conan Doyle",
+    "categoria": "Mistério",
+    "ano": 1902,
+    "isbn": "9780140437867",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780140437867-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "o-signo-dos-quatro",
+    "titulo": "O Signo dos Quatro",
+    "autor": "Arthur Conan Doyle",
+    "categoria": "Mistério",
+    "ano": 1890,
+    "isbn": "9780140439076",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780140439076-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "o-nome-da-rosa",
+    "titulo": "O Nome da Rosa",
+    "autor": "Umberto Eco",
+    "categoria": "Mistério",
+    "ano": 1980,
+    "isbn": "9780156001311",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780156001311-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "garota-exemplar",
+    "titulo": "Garota Exemplar",
+    "autor": "Gillian Flynn",
+    "categoria": "Mistério",
+    "ano": 2012,
+    "isbn": "9780307588371",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780307588371-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "a-garota-no-trem",
+    "titulo": "A Garota no Trem",
+    "autor": "Paula Hawkins",
+    "categoria": "Mistério",
+    "ano": 2015,
+    "isbn": "9781594633669",
+    "capa": "https://covers.openlibrary.org/b/isbn/9781594633669-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "o-codigo-da-vinci",
+    "titulo": "O Código Da Vinci",
+    "autor": "Dan Brown",
+    "categoria": "Mistério",
+    "ano": 2003,
+    "isbn": "9780307474278",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780307474278-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "anjos-e-demonios",
+    "titulo": "Anjos e Demônios",
+    "autor": "Dan Brown",
+    "categoria": "Mistério",
+    "ano": 2000,
+    "isbn": "9780743493468",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780743493468-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "o-xango-de-baker-street",
+    "titulo": "O Xangô de Baker Street",
+    "autor": "Jô Soares",
+    "categoria": "Mistério",
+    "ano": 1995,
+    "isbn": "9788535900428",
+    "capa": "https://covers.openlibrary.org/b/isbn/9788535900428-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "o-escaravelho-do-diabo",
+    "titulo": "O Escaravelho do Diabo",
+    "autor": "Lúcia Machado de Almeida",
+    "categoria": "Mistério",
+    "ano": 1956,
+    "isbn": "9788508090125",
+    "capa": "https://covers.openlibrary.org/b/isbn/9788508090125-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "a-droga-da-obediencia",
+    "titulo": "A Droga da Obediência",
+    "autor": "Pedro Bandeira",
+    "categoria": "Mistério",
+    "ano": 1984,
+    "isbn": "9788516081160",
+    "capa": "https://covers.openlibrary.org/b/isbn/9788516081160-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "duna",
+    "titulo": "Duna",
+    "autor": "Frank Herbert",
+    "categoria": "Ficção científica",
+    "ano": 1965,
+    "isbn": "9780441172719",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780441172719-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "fundacao",
+    "titulo": "Fundação",
+    "autor": "Isaac Asimov",
+    "categoria": "Ficção científica",
+    "ano": 1951,
+    "isbn": "9780553293357",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780553293357-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "eu-robo",
+    "titulo": "Eu, Robô",
+    "autor": "Isaac Asimov",
+    "categoria": "Ficção científica",
+    "ano": 1950,
+    "isbn": "9780553382563",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780553382563-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "1984",
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "categoria": "Ficção científica",
+    "ano": 1949,
+    "isbn": "9780451524935",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780451524935-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "admiravel-mundo-novo",
+    "titulo": "Admirável Mundo Novo",
+    "autor": "Aldous Huxley",
+    "categoria": "Ficção científica",
+    "ano": 1932,
+    "isbn": "9780060850524",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780060850524-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "fahrenheit-451",
+    "titulo": "Fahrenheit 451",
+    "autor": "Ray Bradbury",
+    "categoria": "Ficção científica",
+    "ano": 1953,
+    "isbn": "9781451673319",
+    "capa": "https://covers.openlibrary.org/b/isbn/9781451673319-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "neuromancer",
+    "titulo": "Neuromancer",
+    "autor": "William Gibson",
+    "categoria": "Ficção científica",
+    "ano": 1984,
+    "isbn": "9780441569595",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780441569595-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "o-guia-do-mochileiro-das-galaxias",
+    "titulo": "O Guia do Mochileiro das Galáxias",
+    "autor": "Douglas Adams",
+    "categoria": "Ficção científica",
+    "ano": 1979,
+    "isbn": "9780345391803",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780345391803-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "jogador-numero-1",
+    "titulo": "Jogador Número 1",
+    "autor": "Ernest Cline",
+    "categoria": "Ficção científica",
+    "ano": 2011,
+    "isbn": "9780307887443",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780307887443-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "a-maquina-do-tempo",
+    "titulo": "A Máquina do Tempo",
+    "autor": "H. G. Wells",
+    "categoria": "Ficção científica",
+    "ano": 1895,
+    "isbn": "9780141439976",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780141439976-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "a-guerra-dos-mundos",
+    "titulo": "A Guerra dos Mundos",
+    "autor": "H. G. Wells",
+    "categoria": "Ficção científica",
+    "ano": 1898,
+    "isbn": "9780141441030",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780141441030-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "o-homem-do-castelo-alto",
+    "titulo": "O Homem do Castelo Alto",
+    "autor": "Philip K. Dick",
+    "categoria": "Ficção científica",
+    "ano": 1962,
+    "isbn": "9780547572482",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780547572482-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "androides-sonham-com-ovelhas-eletricas",
+    "titulo": "Androides Sonham com Ovelhas Elétricas?",
+    "autor": "Philip K. Dick",
+    "categoria": "Ficção científica",
+    "ano": 1968,
+    "isbn": "9780345404473",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780345404473-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "o-presidente-negro",
+    "titulo": "O Presidente Negro",
+    "autor": "Monteiro Lobato",
+    "categoria": "Ficção científica",
+    "ano": 1926,
+    "isbn": "9788525044644",
+    "capa": "https://covers.openlibrary.org/b/isbn/9788525044644-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "nao-veras-pais-nenhum",
+    "titulo": "Não Verás País Nenhum",
+    "autor": "Ignácio de Loyola Brandão",
+    "categoria": "Ficção científica",
+    "ano": 1981,
+    "isbn": "9788525415284",
+    "capa": "https://covers.openlibrary.org/b/isbn/9788525415284-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "a-ilha-do-tesouro",
+    "titulo": "A Ilha do Tesouro",
+    "autor": "Robert Louis Stevenson",
+    "categoria": "Aventura",
+    "ano": 1883,
+    "isbn": "9780141321004",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780141321004-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "a-volta-ao-mundo-em-80-dias",
+    "titulo": "A Volta ao Mundo em 80 Dias",
+    "autor": "Júlio Verne",
+    "categoria": "Aventura",
+    "ano": 1873,
+    "isbn": "9780140449068",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780140449068-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "viagem-ao-centro-da-terra",
+    "titulo": "Viagem ao Centro da Terra",
+    "autor": "Júlio Verne",
+    "categoria": "Aventura",
+    "ano": 1864,
+    "isbn": "9780141441979",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780141441979-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "vinte-mil-leguas-submarinas",
+    "titulo": "Vinte Mil Léguas Submarinas",
+    "autor": "Júlio Verne",
+    "categoria": "Aventura",
+    "ano": 1870,
+    "isbn": "9780140621181",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780140621181-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "robinson-crusoe",
+    "titulo": "Robinson Crusoé",
+    "autor": "Daniel Defoe",
+    "categoria": "Aventura",
+    "ano": 1719,
+    "isbn": "9780141439822",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780141439822-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "as-aventuras-de-tom-sawyer",
+    "titulo": "As Aventuras de Tom Sawyer",
+    "autor": "Mark Twain",
+    "categoria": "Aventura",
+    "ano": 1876,
+    "isbn": "9780143039563",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780143039563-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "as-aventuras-de-huckleberry-finn",
+    "titulo": "As Aventuras de Huckleberry Finn",
+    "autor": "Mark Twain",
+    "categoria": "Aventura",
+    "ano": 1884,
+    "isbn": "9780486280615",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780486280615-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "o-chamado-da-floresta",
+    "titulo": "O Chamado da Floresta",
+    "autor": "Jack London",
+    "categoria": "Aventura",
+    "ano": 1903,
+    "isbn": "9780141321059",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780141321059-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "caninos-brancos",
+    "titulo": "Caninos Brancos",
+    "autor": "Jack London",
+    "categoria": "Aventura",
+    "ano": 1906,
+    "isbn": "9780141321110",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780141321110-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "os-tres-mosqueteiros",
+    "titulo": "Os Três Mosqueteiros",
+    "autor": "Alexandre Dumas",
+    "categoria": "Aventura",
+    "ano": 1844,
+    "isbn": "9780141442341",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780141442341-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "o-conde-de-monte-cristo",
+    "titulo": "O Conde de Monte Cristo",
+    "autor": "Alexandre Dumas",
+    "categoria": "Aventura",
+    "ano": 1844,
+    "isbn": "9780140449266",
+    "capa": "https://covers.openlibrary.org/b/isbn/9780140449266-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "o-guarani",
+    "titulo": "O Guarani",
+    "autor": "José de Alencar",
+    "categoria": "Aventura",
+    "ano": 1857,
+    "isbn": "9788503012719",
+    "capa": "https://covers.openlibrary.org/b/isbn/9788503012719-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "a-ilha-perdida",
+    "titulo": "A Ilha Perdida",
+    "autor": "Maria José Dupré",
+    "categoria": "Aventura",
+    "ano": 1944,
+    "isbn": "9788506064166",
+    "capa": "https://covers.openlibrary.org/b/isbn/9788506064166-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "meu-pe-de-laranja-lima",
+    "titulo": "Meu Pé de Laranja Lima",
+    "autor": "José Mauro de Vasconcelos",
+    "categoria": "Aventura",
+    "ano": 1968,
+    "isbn": "9788506086892",
+    "capa": "https://covers.openlibrary.org/b/isbn/9788506086892-M.jpg",
+    "sinopse": null
+  },
+  {
+    "id": "o-menino-no-espelho",
+    "titulo": "O Menino no Espelho",
+    "autor": "Fernando Sabino",
+    "categoria": "Aventura",
+    "ano": 1982,
+    "isbn": "9788501062228",
+    "capa": "https://covers.openlibrary.org/b/isbn/9788501062228-M.jpg",
+    "sinopse": null
+  }
+]

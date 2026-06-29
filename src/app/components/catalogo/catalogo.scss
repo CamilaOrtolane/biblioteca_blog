@@ -1,0 +1,80 @@
+.catalogo {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 70px 48px 80px;
+}
+
+.cabecalho-catalogo {
+  margin-bottom: 26px;
+}
+
+.etiqueta {
+  display: inline-block;
+  margin-bottom: 12px;
+  padding: 6px 14px;
+  background: #f3edff;
+  color: #6d55e8;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.cabecalho-catalogo h1 {
+  margin: 0;
+  color: #111b3d;
+  font-size: 36px;
+  font-weight: 800;
+}
+
+.cabecalho-catalogo p {
+  margin: 8px 0 0;
+  color: #65708a;
+  font-size: 15px;
+}
+
+.filtros {
+  display: grid;
+  grid-template-columns: 1fr 180px 180px auto;
+  gap: 12px;
+  margin-bottom: 34px;
+}
+
+.filtros input,
+.filtros select {
+  height: 44px;
+  border: 1px solid #e6ddff;
+  border-radius: 14px;
+  outline: none;
+  padding: 0 14px;
+  background: #fff;
+  color: #111b3d;
+  font-size: 14px;
+}
+
+.filtros button {
+  height: 44px;
+  padding: 0 22px;
+  border: none;
+  border-radius: 14px;
+  background: #7b61ff;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(285px, 1fr));
+  gap: 22px;
+}
+
+@media (max-width: 850px) {
+  .catalogo {
+    padding: 40px 24px 60px;
+  }
+
+  .filtros {
+    grid-template-columns: 1fr;
+  }
+}

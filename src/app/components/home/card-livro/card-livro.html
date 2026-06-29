@@ -1,4 +1,4 @@
-<div class="card">
+<div class="card" [routerLink]="['/livro', livro.id]" [state]="{ livro: livro }">
   <img class="capa" [src]="livro.capa" [alt]="livro.titulo">
 
   <div class="info">

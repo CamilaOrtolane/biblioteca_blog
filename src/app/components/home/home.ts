@@ -24,17 +24,33 @@ export class Home {
   livros: any[] = [];
 
   constructor(private livrosService: LivrosService) {}
-  termoBusca = 'romance';
 
   ngOnInit() {
-    this.buscarLivros();
+    this.carregarLivros();
   }
 
-  buscarLivros(){
-    this.livrosService.buscarLivros(this.termoBusca)
-      .subscribe((dados) => {
-        this.livros = dados;
-      });
-  }
-  //dá pra criar metódo aqui dentro
+  carregarLivros() {
+  this.livrosService.buscarLivros().subscribe({
+    next: (dados) => {
+      this.livros = dados
+        .sort(() => Math.random() - 0.5)
+        .slice(0, 12);
+    },
+    error: (erro) => {
+      console.error('Erro ao carregar livros da home:', erro);
+    }
+  });
 }
+
+  // carregarLivros() {
+  //   this.livrosService.buscarLivros().subscribe({
+  //     next: (dados) => {
+  //       this.livros = dados;
+  //     },
+  //     error: (erro) => {
+  //       console.error('Erro ao carregar livros:', erro);
+  //     }
+  //   });
+}
+  //dá pra criar metódo aqui dentro
+
