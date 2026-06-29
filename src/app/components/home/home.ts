@@ -30,14 +30,27 @@ export class Home {
   }
 
   carregarLivros() {
-    this.livrosService.buscarLivros().subscribe({
-      next: (dados) => {
-        this.livros = dados;
-      },
-      error: (erro) => {
-        console.error('Erro ao carregar livros:', erro);
-      }
-    });
+  this.livrosService.buscarLivros().subscribe({
+    next: (dados) => {
+      this.livros = dados
+        .sort(() => Math.random() - 0.5)
+        .slice(0, 12);
+    },
+    error: (erro) => {
+      console.error('Erro ao carregar livros da home:', erro);
+    }
+  });
+}
+
+  // carregarLivros() {
+  //   this.livrosService.buscarLivros().subscribe({
+  //     next: (dados) => {
+  //       this.livros = dados;
+  //     },
+  //     error: (erro) => {
+  //       console.error('Erro ao carregar livros:', erro);
+  //     }
+  //   });
 }
   //dá pra criar metódo aqui dentro
-}
+

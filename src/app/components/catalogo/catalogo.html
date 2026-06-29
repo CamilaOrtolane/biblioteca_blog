@@ -1,1 +1,41 @@
-<p>catalogo works!</p>
+<section class="catalogo">
+  <div class="cabecalho-catalogo">
+    <span class="etiqueta">Catálogo</span>
+    <h1>Explore livros</h1>
+    <p>Busque por título, autor, tema ou organize os resultados.</p>
+  </div>
+
+  <div class="filtros">
+    <input
+      type="text"
+      [(ngModel)]="termoBusca"
+      placeholder="Pesquisar livros..."
+      (change)="aplicarFiltros()"
+      
+    />
+
+    <select [(ngModel)]="categoriaSelecionada" (change)="aplicarFiltros()">
+      <option *ngFor="let categoria of categorias" [value]="categoria.valor">
+        {{ categoria.label }}
+      </option>
+    </select>
+
+    <select [(ngModel)]="ordemSelecionada" (change)="aplicarFiltros()">
+      <option value="az">A-Z</option>
+      <option value="za">Z-A</option>
+      <option value="maisRecentes">Mais recentes</option>
+      <option value="maisAntigos">Mais antigos</option>
+    </select>
+
+    <button type="button" (click)="aplicarFiltros()">
+      Pesquisar
+    </button>
+  </div>
+
+  <div class="grid">
+    <app-card-livro
+      *ngFor="let livro of livros"
+      [livro]="livro">
+    </app-card-livro>
+  </div>
+</section>
