@@ -17,7 +17,7 @@
       </p>
 
       <div class="avaliacao">
-        <span>Avaliar o livro:</span>
+  <span>Avaliar o livro:</span>
 
         <div class="estrelas">
           <button
@@ -28,6 +28,7 @@
           </button>
         </div>
 
+        <p class="media">Média: {{ livro.media || 0 }}</p>
         <p class="mensagem" *ngIf="mensagem">{{ mensagem }}</p>
       </div>
     </div>

@@ -17,33 +17,37 @@ export class DetalhesLivro {
 
   constructor(
     private route: ActivatedRoute,
-    private livrosService: LivrosService,
+    private livroService: LivrosService,
     private location: Location
   ) {}
 
   ngOnInit() {
-    const livroState = history.state.livro;
+  const id = Number(this.route.snapshot.queryParamMap.get('id'));
 
-    if (livroState) {
-      this.livro = livroState;
-      return;
+  this.livroService.buscarLivroPorId(id).subscribe({
+    next: (livro) => {
+      this.livro = livro;
+    },
+    error: (erro) => {
+      console.error('Erro ao buscar livro:', erro);
     }
+  });
+}
 
-    const id = this.route.snapshot.paramMap.get('id');
+avaliar(nota: number) {
+  this.nota = nota;
 
-    this.livrosService.buscarLivros().subscribe((livros) => {
-      this.livro = livros.find((livro) => livro.id === id);
-    });
-  }
-
+  this.livroService.avaliarLivro(this.livro.id, nota).subscribe({
+    next: (res) => {
+      this.mensagem = res.mensagem;
+      this.livro.media = res.media;
+    },
+    error: (erro) => {
+      console.error('Erro ao avaliar:', erro);
+    }
+  });
+}
   voltar() {
     this.location.back();
   }
-
-  avaliar(nota: number) {
-    this.nota = nota;
-    this.mensagem = 'Avaliado com sucesso';
-  }
-
-  
 }

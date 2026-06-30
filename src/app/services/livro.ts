@@ -1,5 +1,4 @@
-import { Injectable, inject } from '@angular/core';
-import { Livro } from '../models/livro';
+import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
 
@@ -7,31 +6,26 @@ import { Observable } from 'rxjs';
   providedIn: 'root'
 })
 export class LivrosService {
+  private apiUrl = 'https://book-blog-backend-l0ws.onrender.com/livros';
 
-  // private http = inject(HttpClient);
+  constructor(private http: HttpClient) {}
 
-  //private apiUrl = 'https://book-blog-backend-l0ws.onrender.com/livros';
-
-   constructor(private http: HttpClient) {}
-
-   buscarCatalogo() {
-    return this.http.get<any[]>('assets/livros.json');
-  }
-  buscarLivros() {
-    return this.http.get<any[]>('assets/livros.json');
+  buscarLivros(): Observable<any[]> {
+    return this.http.get<any[]>(this.apiUrl);
   }
 
-  buscarLivroPorId(id: string) {
-    return this.http.get<any[]>('/assets/livros.json');
+  buscarCatalogo(): Observable<any[]> {
+    return this.http.get<any[]>(`${this.apiUrl}/catalogo`);
   }
 
-  // buscarLivros(): Observable<any[]> {
-  //   return this.http.get<any[]>(this.apiUrl);
-  // }
-  // buscarCatalogo() {
-  //   return this.http.get<any[]>(`${this.apiUrl}/catalogo`);
-  // }
-  // buscarLivrosPorTermo(termo: string): Observable<any[]> {
-  //   return this.http.get<any[]>(`${this.apiUrl}/buscar?q=${termo}`);
-  // }
+  buscarLivroPorId(id: number): Observable<any> {
+    return this.http.get<any>(`${this.apiUrl}/${id}`);
+  }
+
+  avaliarLivro(id: number, nota: number): Observable<any> {
+    return this.http.post<any>(`${this.apiUrl}/${id}/avaliar`, {
+      nota_ava: nota,
+      id_usu: 1
+    });
+  }
 }

@@ -1,4 +1,4 @@
-<div class="card"  [queryParams]="{ id: livro.id }" [routerLink]="['/livro', livro.id]" [state]="{ livro: livro }">
+<div class="card" [routerLink]="['/livro']" [queryParams]="{ id: livro.id }">
   <img class="capa" [src]="livro.capa" [alt]="livro.titulo">
 
   <div class="info">
